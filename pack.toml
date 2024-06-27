@@ -1,0 +1,16 @@
+name = "Prostir"
+author = "zulf4"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8caae4fc349f206dc0d5a33523a011dc1a5d8db25a3be9ab2f8be3674ab34fe"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.6"
+
+[options]
+acceptable-game-versions = ["1.20.5", "1.20.6-rc1"]
